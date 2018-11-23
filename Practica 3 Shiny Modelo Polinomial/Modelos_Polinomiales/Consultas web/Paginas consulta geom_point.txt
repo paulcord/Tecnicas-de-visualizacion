@@ -1,0 +1,8 @@
+Geompoint
+https://plot.ly/ggplot2/geom_point/
+https://r4stats.com/examples/graphics-ggplot2/
+
+Shiny apps
+https://ihstevenson.shinyapps.io/sample_means/
+https://www.showmeshiny.com/decision-boundaries/
+https://www.showmeshiny.com/sums-of-squares/
